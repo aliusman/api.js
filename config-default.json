@@ -6,7 +6,7 @@
 	"reload-secret": "",
 	"custom-icons-dir": "{dir}/json",
 	"serve-default-icons": true,
-	"index-page": "https://iconify.design/",
+	"index-page": "https://viredinemojisserver.azurewebsites.net/",
 	"json-loader": "parse",
 	"cache": {
 		"timeout": 604800,
